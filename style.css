@@ -43,7 +43,7 @@ button{
     padding:10px 24px;
     background:rgb(73, 209, 73);
     border-radius:5px;
-    cursor:progress;
+    cursor:pointer;
     font-size:18px;
 
 }
